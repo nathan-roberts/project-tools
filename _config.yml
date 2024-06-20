@@ -1,1 +1,11 @@
-theme:hacker
+title: My GitHub Pages Site
+description: A simple site using the Cayman theme
+theme: jekyll-theme-cayman
+
+# Optional settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+
+# Social media links (optional)
+github_username: your-username
